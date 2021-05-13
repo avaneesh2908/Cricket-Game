@@ -1,0 +1,25 @@
+body {
+    background-image: url("cricket.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header {
+    background-color: chartreuse;
+    text-align: center;
+    font-size: 60px;
+}
+.body {
+    background-color: chocolate;
+    text-align: center;
+    font-size: 40px;
+}
+.btn {
+    color: blue;
+    font-size: 24px;
+    padding: 16px 32px;
+    background-image: linear-gradient(to right, rgb(255, 136, 0),rgb(255, 208, 0));
+    margin-left: 150mm;
+}
+a {
+    text-decoration: none;
+}
